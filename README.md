@@ -16,4 +16,4 @@ Here are the rules for my version of Blackjack:
    * If the dealer goes over a score of 21, they bust and the player wins immediately.
    * Otherwise, if the player has a higher score than the dealer, the player wins. Otherwise, the player loses (we’ll consider ties as dealer wins for simplicity).  
 
-In our simplified version of Blackjack, we’re not going to keep track of which specific cards the player and the dealer have been dealt. We’ll only track the sum of the values of the cards they have been dealt for the player and dealer. This keeps things simpler.
+In my simplified version of Blackjack, I'm not going to keep track of which specific cards the player and the dealer have been dealt. I'm only track the sum of the values of the cards they have been dealt for the player and dealer. This keeps things simpler.
