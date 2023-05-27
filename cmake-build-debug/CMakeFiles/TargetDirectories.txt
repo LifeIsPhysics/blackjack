@@ -1,0 +1,3 @@
+/home/berke/CLionProjects/BlackJack/cmake-build-debug/CMakeFiles/BlackJack.dir
+/home/berke/CLionProjects/BlackJack/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/berke/CLionProjects/BlackJack/cmake-build-debug/CMakeFiles/rebuild_cache.dir
